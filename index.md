@@ -3,7 +3,6 @@ layout: cv
 title: Jane Doe's CV
 ---
 
-![Harold](./media/21.png){:.avatar}
 
 #Jane Doe
 Computer Science Student and Technology aficionado
